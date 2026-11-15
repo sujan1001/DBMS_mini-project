@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 87407035b85b4b2cc9883108433a7531f1f02f94 Swasthik Vinay Pamadi <swasthik.root@gmail.com> 1787638726 +0530	commit (initial): Initial commit from Create Next App
+87407035b85b4b2cc9883108433a7531f1f02f94 8e3b089d2f170735d6d3506dbec98e67b92afaba Swasthik Vinay Pamadi <swasthik.root@gmail.com> 1787639927 +0530	commit: feat: complete initial project setup with Next.js, pgvector, and SQL schema
+8e3b089d2f170735d6d3506dbec98e67b92afaba 8e3b089d2f170735d6d3506dbec98e67b92afaba Swasthik Vinay Pamadi <swasthik.root@gmail.com> 1787639927 +0530	Branch: renamed refs/heads/main to refs/heads/main
